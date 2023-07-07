@@ -1,9 +1,11 @@
 ---
-title: "Introducing Script Maker Hash: A Tool for Generating Hashes"
+title: "Script Maker Hash: A Tool for Generating Hashes"
 datePublished: Thu Jul 06 2023 15:06:04 GMT+0000 (Coordinated Universal Time)
 cuid: cljra5t3q000b09mh1up7b10k
-slug: introducing-script-maker-hash-a-tool-for-generating-hashes
-tags: github, python, script, hacking-tools
+slug: script-maker-hash-a-tool-for-generating-hashes
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1688690374475/346bf537-3934-47dc-b173-e0f0af0963ca.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1688690394770/f3f0782f-e51b-4252-b7eb-da343c0ba794.png
+tags: github, python, script, cryptography, hacking-tools
 
 ---
 
