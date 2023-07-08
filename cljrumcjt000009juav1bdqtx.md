@@ -11,7 +11,7 @@ tags: python, script, cryptography, hashing, hacking-tools
 
 ## Introduction:
 
-Secure Your Files is a Python script developed by Script Maker that provides an intuitive solution for encrypting and decrypting files using [AES encryption](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard). With its user-friendly graphical user interface (GUI) built with tkinter, Secure Your Files allows users to easily select files and perform encryption or decryption operations with just a few clicks.
+Python script developed that provides an intuitive solution for encrypting and decrypting files using [AES encryption](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard). With its user-friendly graphical user interface (GUI) built with tkinter, Secure Your Files allows users to easily select files and perform encryption or decryption operations with just a few clicks.
 
 Features:
 
